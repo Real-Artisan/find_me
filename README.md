@@ -1,6 +1,9 @@
 # FindMe
 
+This project reveals your IP Adress, Location and Internet connection details.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+
+![localhost_4200_(iPhone 6_7_8) (10)](https://user-images.githubusercontent.com/82245725/210084697-42aa60dc-edd3-4094-ad01-b6d32a670413.png)
 
 ## Development server
 
