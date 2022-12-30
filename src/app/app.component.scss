@@ -1,0 +1,56 @@
+.page-container{
+    max-width: 365px;
+    display: block;
+    margin: auto;
+    max-height: 100vh;
+    .found{
+        width: 100%;
+        .head{
+            h1{
+                text-align: center;
+            }
+            .relative{
+                position: relative;
+                img{
+                    width: 365px;
+                }
+                .ip{
+                    position: absolute;
+                    right: 10px;
+                    bottom: 10px;
+                    font-size: 22px;
+                    color: lightgray;
+                    font-weight: 500;
+                }
+            }
+            .country{
+                margin-top: 10px;
+                
+            }
+        }
+        .see-more{
+            display: block;
+            margin: auto;
+            margin-top: 25px;
+            height: 33px;
+            width: 120px;
+            color: #fff;
+            border: 1px solid #000;
+            background-color: #000;
+            border-radius: 12px;
+        }
+        .see-less{
+            color: #000;
+            background-color: #fff;
+        }
+        .more{
+            height: 300px;
+            margin-top: 30px;
+            overflow-y: auto;
+            padding: 20px;
+            background-color: lightgray;
+            border-top-left-radius: 22px;
+            border-top-right-radius: 22px;
+        }
+    }
+}
